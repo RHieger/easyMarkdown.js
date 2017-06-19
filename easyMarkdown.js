@@ -2,6 +2,8 @@
 //
 // Robert Hieger
 //
+// June 19, 2017
+//
 // v0.0.1a
 
 // This is the very first alpha version of easyMarkdown, and
